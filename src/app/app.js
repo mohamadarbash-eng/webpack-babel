@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, Suspense } from 'react';
 import { Link, Route } from 'react-router-dom';
 import Users from './containers/Users';
 
