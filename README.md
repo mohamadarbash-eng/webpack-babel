@@ -1,4 +1,4 @@
-## configurations for create app without using webpack 
+## configurations for  webpack without using create app
 
 
 ### `npm install`
